@@ -1,6 +1,9 @@
 # fb-brute-attuck
+>>>>>>
 Attuck Any FB Terget ID
+>>>>>>
 Intallation command
+>>>>>>>>>>>
 apt-get install git python3 
 >>>>>>>>>>>>
 python3-pip python python-pip
